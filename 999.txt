@@ -1,4 +1,4 @@
-测试频道_789,#genre#
+测试频道,#genre#
 Live Cams,http://cdn.adultiptv.net/livecams.m3u8
 Anal,http://cdn.adultiptv.net/anal.m3u8
 Big Ass,http://cdn.adultiptv.net/bigass.m3u8
